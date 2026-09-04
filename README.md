@@ -22,3 +22,10 @@ A weather monitoring service built to demonstrate API consumption, network reque
    ```bash
    git clone [https://github.com/DevRushi-engg/smart-weather-monitoring-app.git](https://github.com/DevRushi-engg/smart-weather-monitoring-app.git)
    cd smart-weather-monitoring-app
+2. Install dependencies:
+   Bash
+   pip install requests
+   
+3. Execute script:
+   Bash
+   python app.py
